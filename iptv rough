@@ -1,30 +1,28 @@
-#EXTINF:-1,SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
-#EXTINF:-1,SONY TEN1 HD
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
-#EXTINF:-1,SONY TEN3 SD
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
-#EXTINF:-1,SONY ESPN
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
-#EXTINF:-1,SONY TEN1 SD
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
-#EXTINF:-1,SONY TEN2 SD
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1,SONY TEN2 HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1,SONY TEN3 HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:-1,NeoSports
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
-#EXTINF:-1,DD Sports
-http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
-#EXTINF:-1,DSports HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:-1,SKY SPORT 1
-http://playlist.onlybest.tv/en/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/724/index.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://playlist.onlybest.tv/en/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/725/index.m3u8
-#EXTINF:-1,Sky Sport 2 HD Deutschland
-http://playlist.onlybest.tv/en/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/733/index.m3u8
-#EXTINF:-1,Sky Sport 1 HD Deutschland
-http://playlist.onlybest.tv/en/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/737/index.m3u8
+#EXTINF:0,ADULT 29 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/1909.m3u8
+#EXTINF:0,ADULT 3 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/120.m3u8
+#EXTINF:0,ADULT 30 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/1910.m3u8
+#EXTINF:0,ADULT 31 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/1911.m3u8
+#EXTINF:0,ADULT 32 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/1912.m3u8
+#EXTINF:0,ADULT 4 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/121.m3u8
+#EXTINF:0,ADULT 5 | HD
+http://dunav007.hopto.org:8000/live/Nikolinsin/oot63ep0AV/269.m3u8
+#EXTINF:0,ADULT 5 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/122.m3u8
+#EXTINF:0,ADULT 6 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/123.m3u8
+#EXTINF:0,ADULT 7 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/124.m3u8
+#EXTINF:0,ADULT 8 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/125.m3u8
+#EXTINF:0,ADULT 9 | SD
+http://mixbox.dyndns.tv:25461/live/EVLADINI-SIKIM/YANINDA_SENIDE_SIKIM/126.m3u8
+#EXTINF:0,ADULT SWIM LIVE ACTION | SD
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+#EXTINF:0,BABESTATION | SD
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
